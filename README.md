@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-# Calendario de Eventos
-=======
-# Calendario de eventos
->>>>>>> 626d9b9c728beb4f6ad95857620b5c2de99900a9
+#Calendario de eventos
+
 Calendario con eventos en php y mysql diseñado en Bootstrap.
 
 #Uso
