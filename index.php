@@ -103,7 +103,7 @@ if (isset($_POST['from']))
 
                 <div class="row">
                         <div class="page-header">
-                          <img border="0" src="logo-camv.png">
+                          <img border="0" src="logo.jpg">
                           <h2></h2>
                         </div>
                                 <div class="pull-left form-inline"><br>
