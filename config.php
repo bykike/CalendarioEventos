@@ -13,8 +13,12 @@
 
 // Datos de conexion a la base de datos
 $servidor='localhost';
-$usuario='';
-$pass='';
+$usuario='root';
+$pass='root';
+
+//$usuario='rooter';
+//$pass='949SyRhG9Uhb';
+
 $bd='eventos';
 
 // Nos conectamos a la base de datos
@@ -30,4 +34,5 @@ if ($conexion->connect_errno) {
 
 // Url donde estara el proyecto, debe terminar con un "/" al final
 $base_url="http://localhost:8888/CalendarioEventos/";
+//$base_url="https://www.pcriegos.com/calendarioeventos/";
 ?>
